@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="no_prod_available"> No Product available</string>
+</resources>
